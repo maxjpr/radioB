@@ -189,18 +189,9 @@ rgLenguajes.setOnCheckedChangeListener(new RadioGroup.OnCheckedChangeListener() 
 
 ---
 
-## 8. Ejercicio Propuesto: Método de Pago
-Crear una aplicación donde el usuario elija su método de pago entre:
-*   Tarjeta de Crédito
-*   PayPal
-*   Yape
-*   Plin
-
-Al presionar un botón, debe mostrar un mensaje: `"Método seleccionado: [Opción]"`.
-
 ---
 
-## 9. Resumen
+## 8. Resumen
 | Componente / Método | Función |
 | :--- | :--- |
 | `RadioButton` | Opción individual de selección. |
